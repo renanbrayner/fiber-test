@@ -1,4 +1,4 @@
-module crm
+module github.com/renanbrayner/fiber-test
 
 go 1.19
 
